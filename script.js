@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Which is the correct order in which blood circulates through the heart, lungs and body",
+    answer: "Right atrium, right ventricle, pulmonary artery, lungs, pulmonary vein, left ventricle, left atrium, aorta ",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Right atrium, right ventricle, pulmonary vein, lungs, pulmonary artery, left atrium, left ventricle, aorta ",
+      "Right atrium, right ventricle, pulmonary artery, lungs, pulmonary vein, left ventricle, left atrium, aorta ",
+      "Right atrium, right ventricle, left atrium, left ventricle",
+      "Right atrium, right ventricle, pulmonary artery, lungs, pulmonary vein, right ventricle, left atrium, aorta."
     ]
   },
     {
@@ -56,123 +56,123 @@ let questions = [
   },
   
 
-     {
-     numb: 6,
-     question: "Your Question is Here",
-  
-     options: [
-       "Option 1",
-       "option 2",
-       "option 3",
-       "option 4"
+  {
+    numb: 5,
+    question: "A conscious patient complaining of breathing difficulty should be put in the what position?",
+    answer: "Upright position",
+    options: [
+      "Prone position",
+      "Upright position",
+      "Supine position",
+      "McRoberts position"
     ]
-   },
+  },
 
    {
     numb: 7,
-    question: "Your Question is Here",
- 
+    question: "what is the Maximum time on scene for life- threatening trauma for an Adult?",
+    answer: "10 minutes or less",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "10 minutes or less",
+      "2 minutes",
+      "15 minutes",
+      "60 seconds"
    ]
   },
 
   {
     numb: 8,
-    question: "Your Question is Here",
- 
+    question: "What Markers identify an acutely unwell Adult",
+    answer: "Cardiac chest pain and or Acute pain > 5",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Cardiac chest pain and or Acute pain > 5",
+      "Expirational wheeze",
+      "Low grade temp, with signs of Influenza",
+      "Necrotic Leg"
    ]
   },
 
   {
     numb: 9,
-    question: "Your Question is Here",
- 
+    question: "What are the markers for multi system trauma?",
+    answer: "Systolic BP < 90, Respiratory rate < 10 or > 29, Heart rate > 120 AVPU = V, P or U on scale Mechanism of Injury",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Systolic BP < 90, Respiratory rate < 10 or > 29, Heart rate > 120 AVPU = V, P or U on scale Mechanism of Injury",
+      "Aloc with accetone odour from breath",
+      "Tachycardia and tachypnoea",
+      "Hypotensive"
    ]
   },
 
   {
     numb: 10,
-    question: "Your Question is Here",
- 
+    question: "What must you do after each cycle of cpr in and FBAO unrepsonisve patient",
+    answer: "After each cycle of CPR open mouth and look for object, If visible, make one attempt to remove.",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "After each cycle of CPR open mouth and look for object, If visible, make one attempt to remove.",
+      "Change shock Pads",
+      "Apply a cervical collar and transport to local a&e",
+      "Perform a blind finger sweep"
    ]
   },
 
   {
     numb: 11,
-    question: "Your Question is Here",
- 
+    question: "Your on shift attending an emergency call for a 76yo male not responding and not breathing, it is important during cpr to?",
+    answer: "Minimum interruptions of chest compressions while keeping Maximum hands off time 10 seconds. or less",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Not communicate to the family or friends so you can focus on cpr",
+      "Carry out a primary and secondary survey before doing anything else",
+      "Start running a bag of 0.9% saline and 1:1000 IV Epinephrine",
+      "Minimum interruptions of chest compressions while keeping Maximum hands off time 10 seconds. or less"
    ]
   },
 
   {
     numb: 12,
-    question: "Your Question is Here",
- 
+    question: "Following successful Advanced Airway management with an I-GEL in an Adult",
+    answer:" Ventilate at 8 to 10 per minute. ii) Unsynchronised chest compressions continuous at 100 to 120 per minute",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Remove the I-GEL and attempt a ETT instead for firect access to the lungs",
+      "Ensure the full 1500mls of air from the BVM is pushed into the patients lungs",
+      "Ventilate at 8 to 10 per minute. ii) Unsynchronised chest compressions continuous at 100 to 120 per minute",
+      "Ventilate at a rate of 1 breath every 3 seconds"
    ]
   },
 
   {
     numb: 12,
-    question: "Your Question is Here",
- 
+    question: "A 56 yo female is experiencing exacerbation of her COPD, at what intervals should salbutamol be given?",
+    answer: "Salbutamol may be repeated at 5 minute intervals",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Only once, as COPD has restrictions on airway medications",
+      "Skip salbutamol and proceed with epi 1:1000",
+      "Salbutamol may be repeated at 5 minute intervals",
+      "Mix Salbutamol and Ipratropium Bromide together in a neb at a flow rate of 15LPM"
    ]
   },
 
   {
     numb: 14,
-    question: "Your Question is Here",
- 
+    question: "A Patient who is symptomatic Bradycardia can show symptoms such as?",
+    answer: "Acute altered mental status, Ischemic chest discomfort, Acute heart failure, Hypotension, Signs of shock",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Hypothermic, Intoxicated",
+      "Acute altered mental status, Ischemic chest discomfort, Acute heart failure, Hypotension, Signs of shock",
+      "PolyUria, PolyDypsia",
+      "Tachycardia, Fast breathing"
    ]
   },
 
   {
     numb: 15,
-    question: "Your Question is Here",
- 
+    question: "For trauma pain assessment in adults what pain score is used ?",
+    answer: "Analogue or Visual Pain Scale, 0 = no pain........10 = unbearable",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Analogue or Visual Pain Scale, 0 = no pain........10 = unbearable",
+      "Wong Baker Scale",
+      "Flacc Scale",
+      "Weight Scales"
    ]
   },
 
@@ -1221,7 +1221,7 @@ continue_btn.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); //show quiz box
     showQuetions(0); //calling showQestions function
     queCounter(1); //passing 1 parameter to queCounter
-    startTimer(15); //calling startTimer function
+    startTimer(20); //calling startTimer function
     startTimerLine(0); //calling startTimerLine function
 }
 
