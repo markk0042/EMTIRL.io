@@ -205,9 +205,9 @@ let questions = [
     question: "What are the 5 regions of burns considered more serious?",
     answer: "F: face, H: hands, F: feet, F: flexion points P: perineum",
     options: [
-      "",
-      "option 2",
-      "option 3",
+      "The Thighs, Glutes and chin",
+      "5 toes on one foot",
+      "5 fingers on one hand",
       "F: face, H: hands, F: feet, F: flexion points, P: perineum"
    ]
   },
@@ -215,7 +215,7 @@ let questions = [
   {
     numb: 19,
     question: "What is the normal dosage of aspirin or ASA for someone with chest pain?",
-    answer: "",
+    answer: "300mg",
     options: [
       "300mcg",
       "300mls",
@@ -310,49 +310,49 @@ let questions = [
 
   {
     numb: 27,
-    question: "Your Question is Here",
-    answer: "",
+    question: "a adult suffering with a moderate alergic reaction / anaphylaxis will present with ? ",
+    answer: "uticaria angio oedema simple bronchospasm",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "GCS 3, sitting upright talking",
+      "Pin point Pupils with Shortness of breath and difficulty breathing",
+      "Uticaria and simple rash",
+      "uticaria angio oedema simple bronchospasm"
    ]
   },
 
   {
     numb: 28,
-    question: "Your Question is Here",
-    answer: "",
+    question: "What drives/ controls the heart?",
+    answer: "The medulla",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "The medulla",
+      "Frontal lobe",
+      "Mitochondria",
+      "Cytokines"
    ]
   },
 
   {
     numb: 29,
-    question: "Your Question is Here",
-    answer: "",
+    question: "Signs of Systemic Infamatory Response Syndrome are?",
+    answer: "Temperature < 36 or > 38.3 Heart rate > 90 Respiratory rate > 20 Acutely confused Glucose > 7.7 (not diabetic)",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Eupnea, with a Capnography score or 42mmgh",
+      "Flushed, excessive thirst and accetone odour from breath",
+      "Temperature < 36 or > 38.3 Heart rate > 90 Respiratory rate > 20 Acutely confused Glucose > 7.7 (not diabetic)",
+      "Tired, no energy, abdominal pain with nausea and vomiting with no altered level of conciousness"
    ]
   },
 
   {
     numb: 30,
-    question: "Your Question is Here",
-    answer: "",
+    question: "Where do you cut the umbilical cord for a delivered baby?",
+    answer: "Clamp cord at 10, 15 & 20cm from baby",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Dont cut it at all",
+      "Clamp cord at 12, 15 & 20cm from baby",
+      "Clamp cord at 15, 20 & 25cm from baby",
+      "Clamp cord at 10, 15 & 20cm from baby"
    ]
   },
 
