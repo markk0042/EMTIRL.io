@@ -358,25 +358,25 @@ let questions = [
 
   {
     numb: 11,
-    question: "Your Question is Here",
- 
+    question: "what is the best placement technique for chest compressions in a neonate in CPR with 2 practitioners present",
+    answer: "Use two thumbs encircling technique when two practitioners present",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Use two thumbs encircling technique when two practitioners present",
+      "Central Chest",
+      "Two hands on the chest getting at least 5-6cm dept",
+      "One hand on the chest 5-6cm dept"
    ]
   },
 
   {
     numb: 31,
-    question: "Your Question is Here",
- 
+    question: "What does the Paediatric Assessment Triangle focus on?",
+    answer:"Appearance Work of Breathing Circulation to skin",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Gives the practitioner information on the babys immunological status",
+      "Head to Toe assessment",
+      "Appearance Work of Breathing Circulation to skin",
+      "It Calculates the weight of the baby for the crew"
    ]
   },
 
