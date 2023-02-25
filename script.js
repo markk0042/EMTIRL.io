@@ -382,49 +382,49 @@ let questions = [
 
   {
     numb: 32,
-    question: "Your Question is Here",
- 
+    question: "How many layers of the heart is their?",
+    answer: "3",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "3",
+      "1",
+      "2",
+      "There are no layers to the heart, its just a organ"
    ]
   },
 
   {
     numb: 33,
-    question: "Your Question is Here",
- 
+    question: "Prolonged use of (___) in COPD patients may lead to the reduction in ventilations stimulus",
+    answer:"Oxygen",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Entonox",
+      "Oxygen",
+      "Glucagon",
+      "Co2"
    ]
   },
 
   {
     numb: 34,
-    question: "Your Question is Here",
- 
+    question: "When assessing normal capillary refill, you will press the capillary bed for 5 seconds and release. Normal perfusion results in the blood returning within how many seconds?",
+    answer:"Two",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Two",
+      "Five",
+      "Ten",
+      "1"
    ]
   },
 
   {
     numb: 35,
-    question: "Your Question is Here",
- 
+    question: "On the ECG the “P” wave represents what?",
+    answer: "Represents the SA node firing",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Represents the AV node firing",
+      "Represents the depolarization of the ventricle",
+      "Represents the SA node firing",
+      "Represents the depolarization of the left and right atria"
    ]
   },
 
