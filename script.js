@@ -131,7 +131,7 @@ let questions = [
   {
     numb: 12,
     question: "Following successful Advanced Airway management with an I-GEL in an Adult",
-    answer:" Ventilate at 8 to 10 per minute. ii) Unsynchronised chest compressions continuous at 100 to 120 per minute",
+    answer:"Ventilate at 8 to 10 per minute. ii) Unsynchronised chest compressions continuous at 100 to 120 per minute",
     options: [
       "Remove the I-GEL and attempt a ETT instead for firect access to the lungs",
       "Ensure the full 1500mls of air from the BVM is pushed into the patients lungs",
@@ -178,140 +178,140 @@ let questions = [
 
   {
     numb: 16,
-    question: "Your Question is Here",
- 
+    question: "A male patient of 42 years old has been involved in an RTC and has the following findings upon examination, dyspnoea, blood pressure of 137/90 mmgh, a rapid weak pulse of 130, tracheal deviation to the right side and absent breath sounds present on the left lung. What is the most likely injury?",
+    answer:"Tension Pnuemothorax",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Haemothorax",
+      "Pnuemonia",
+      "Tension Pnuemothorax",
+      "Splayed Ribs"
    ]
   },
 
   {
     numb: 17,
-    question: "Your Question is Here",
- 
+    question: "What is the F.A.S.T assessment used for ?",
+    answer:"Patients experiencing a CVA",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Patients experiencing a CVA",
+      "Patients in a diabetic emergency",
+      "Unresponsive Patients",
+      "It is part of the abdominal assesment"
    ]
   },
 
   {
     numb: 18,
-    question: "Your Question is Here",
- 
+    question: "What are the 5 regions of burns considered more serious?",
+    answer: "F: face, H: hands, F: feet, F: flexion points P: perineum",
     options: [
-      "Option 1",
+      "",
       "option 2",
       "option 3",
-      "option 4"
+      "F: face, H: hands, F: feet, F: flexion points, P: perineum"
    ]
   },
 
   {
     numb: 19,
-    question: "Your Question is Here",
- 
+    question: "What is the normal dosage of aspirin or ASA for someone with chest pain?",
+    answer: "",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "300mcg",
+      "300mls",
+      "300mg",
+      "300g"
    ]
   },
 
   {
     numb: 20,
-    question: "Your Question is Here",
- 
+    question: "When should you get a SAMPLE history from a patient in pain?",
+    answer: "At all times",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "At all times",
+      "Only if the patient can walk to the ambulance",
+      "Once you have given strong analgesics",
+      "Never ask a patient their SAMPLE history"
    ]
   },
 
   {
     numb: 21,
-    question: "Your Question is Here",
- 
+    question: "Haemostatic dressings are good for what kind of bleeds?",
+    answer: "Hemorrhagic bleeds",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Hemorrhagic bleeds",
+      "Oral Pharynx bleeds",
+      "Venous bleeds that slowed but still need dressing",
+      "hyphema"
    ]
   },
 
   {
     numb: 22,
-    question: "Your Question is Here",
- 
+    question: "What is usually the first sign a patient shows as a sign of shock in their vital signs?",
+    answer: "Tachycardia",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Tachycardia",
+      "Dyspnoea",
+      "Orthopnoea",
+      "Oxygen Saturations of 99%"
    ]
   },
 
   {
     numb: 23,
-    question: "Your Question is Here",
- 
+    question: "Your lower portion of your jaw is known as the what ?",
+    answer: "Mandible",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Zygoma",
+      "ethmoid",
+      "Mandible",
+      "lacrimal bone"
    ]
   },
 
   {
     numb: 24,
-    question: "Your Question is Here",
- 
+    question: "The compression to breath/ ventilation ratio for a New born needing CPR is ?",
+    answer: "3:1",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "15:2",
+      "3:1",
+      "30:2",
+      "10:2"
    ]
   },
 
   {
     numb: 25,
-    question: "Your Question is Here",
- 
+    question: "How man sets of chest compressions to ventilations should you get in a 2 minute cycle of CPR in an ADULT?",
+    answer: "5 sets",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "3 sets",
+      "10 sets",
+      "5 sets",
+      "4 sets"
    ]
   },
 
   {
     numb: 26,
-    question: "Your Question is Here",
- 
+    question: "How long should you check a pulse on a Hypothermic patient?  ",
+    answer: "Pulse check for 30 to 45 seconds",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Pulse check for 30 to 45 seconds",
+      "15 seconds",
+      "60 seconds",
+      "10 seconds"
    ]
   },
 
   {
     numb: 27,
     question: "Your Question is Here",
- 
+    answer: "",
     options: [
       "Option 1",
       "option 2",
@@ -323,7 +323,7 @@ let questions = [
   {
     numb: 28,
     question: "Your Question is Here",
- 
+    answer: "",
     options: [
       "Option 1",
       "option 2",
@@ -335,7 +335,7 @@ let questions = [
   {
     numb: 29,
     question: "Your Question is Here",
- 
+    answer: "",
     options: [
       "Option 1",
       "option 2",
@@ -347,7 +347,7 @@ let questions = [
   {
     numb: 30,
     question: "Your Question is Here",
- 
+    answer: "",
     options: [
       "Option 1",
       "option 2",
