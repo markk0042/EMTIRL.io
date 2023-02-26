@@ -23,35 +23,35 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Stridor, if heard, would be a sign of",
+    answer: "Upper airway obstruction",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Pulmonary oedema",
+      "Chest Infection",
+      "Upper airway obstruction",
+      "Bronchial rattling"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "The human skeleton is made up of how many bones?",
+    answer: "206",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "205",
+      "206",
+      "180",
+      "186"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "An example of an irregular shaped bone is?",
+    answer: "Bones of the spinal column",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Bones in the arm",
+      "Bones in the skull",
+      "Bones in the feet",
+      "Bones of the spinal column"
     ]
   },
   
@@ -430,91 +430,91 @@ let questions = [
 
   {
     numb: 36,
-    question: "Your Question is Here",
- 
+    question: "Which of the following below is an indication for the use of Naloxone?",
+    answer: "Inadequate respiration and/ or ALOC following known or suspected narcotic overdose",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Pulse rate above 100bpm",
+      "Inadequate respiration and/ or ALOC following known or suspected narcotic overdose",
+      "Paracetamol overdose",
+      "2-6 on the pain scale"
    ]
   },
 
   {
     numb: 37,
-    question: "Your Question is Here",
- 
+    question: "In a cardiac arrest situation how many practitioners or responders are needed minimum?",
+    answer:"3 to 4 practitioners / responders Minimum",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "3 to 4 practitioners / responders Minimum",
+      "Only 2, one for the airway, one for compressions",
+      "Just 1 practitioner",
+      "Only just you because your an advanced paramedic"
    ]
   },
 
   {
     numb: 38,
-    question: "Your Question is Here",
- 
+    question: "A clean deep cut made with a sharp knife or scalpel is called",
+    answer: "incision",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "laceration",
+      "Contusion",
+      "Abrasion",
+      "incision"
    ]
   },
 
   {
     numb: 39,
-    question: "Your Question is Here",
- 
+    question: " what is the term used to describe the process whereby deposits of fatty substances, cholesterol, calcium and other waste products line the inner surface of blood vessels",
+    answer:"Atherosclerosis",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Aphasia",
+      "Dysphagia",
+      "Myocardial Infarction",
+      "Atherosclerosis"
    ]
   },
 
   {
     numb: 40,
-    question: "Your Question is Here",
- 
+    question: "Protection, temperature regulation and excretion are major functions of the",
+    answer:"Skin",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Lungs",
+      "Muscles",
+      "Skin",
+      "Heart"
    ]
   },
 
   {
     numb: 41,
-    question: "Your Question is Here",
- 
+    question: "The bone known as the knee cap, is anatomically known as what ?",
+    answer:"Patella",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Patella",
+      "Tibia tuberosity",
+      "Radius",
+      "Petechial"
    ]
   },
 
   {
     numb: 42,
-    question: "Your Question is Here",
- 
+    question: "What does the medical term “idiopathic” mean?",
+    answer:"Of unknown cause",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Part of the nervous system",
+      "Opposite to anterior",
+      "Another term for the peritoneal region",
+      "Of unknown cause"
    ]
   },
 
   {
     numb: 43,
-    question: "Your Question is Here",
+    question: "",
  
     options: [
       "Option 1",
