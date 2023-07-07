@@ -526,48 +526,46 @@ let questions = [
 
   {
     numb: 44,
-    question: "Your Question is Here",
- 
+    question: "A blood clot lodged in the pulmonary artery in the lung is referred to as:",
+    answer:"A pulmonary embolism",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "A stroke",
+      "A Myocardial Infarction",
+      "Stridor event",
+      "A pulmonary embolism"
    ]
   },
 
   {
     numb: 45,
-    question: "Your Question is Here",
- 
+    question: "When obtaining a blood pressure by palpation in the arm, you should place your fingertips on which of the following artery",
+    answer:"Radial Artery",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Tibia Tuberosity",
+      "Radial Artery",
+      "ACF Artery",
+      "Subclavian Artery"
    ]
   },
 
   {
     numb: 46,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Arteries carry blood away from the heart where as veins carry blood towards the heart?",
+    answer: "True",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "False",
+      "Tue"
     ]
   },
     {
     numb: 47,
-    question: "What does CPR stand for?",
-    answer: "Cardio Pulmonary Resuscitation",
+    question: "Insulin is produced by what organ?",
+    answer: "Pancreas",
     options: [
-      "Cardio Pulmonary Resuscitation",
-      "Colorful Style Sheet",
-      "Community Pulse Rescuer",
-      "Cant Pump Regularly"
+      "Pancreas",
+      "Spleen",
+      "Adrenal gland",
+      "Liver"
     ]
   },
     {
