@@ -923,133 +923,133 @@ let questions = [
 
   {
     numb: 78,
-    question: "Your Question is Here",
- 
+    question: "Osteoporosis is a condition to the skeletal system due to?",
+    answer:"decreased bone mass and strength",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "vertebral Disc",
+      "decreased bone mass and strength",
+      "Arthritis",
+      "decreased metabolism"
    ]
   },
 
   {
     numb: 79,
-    question: "Your Question is Here",
- 
+    question: "Ectopic pregnancies most often develop in?",
+    answer:"A fallopian tube",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "A fallopian tube",
+      "Uterus",
+      "Cervix",
+      "Urethra"
    ]
   },
 
   {
     numb: 80,
-    question: "Your Question is Here",
- 
+    question: "A area/mass of blood in the soft tissue beneath the skin is a?",
+    answer:"Hematoma",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Homeostasis",
+      "Hemothorax",
+      "Hemophilia",
+      "Hematoma"
    ]
   },
 
   {
     numb: 81,
-    question: "Your Question is Here",
- 
+    question: "ovary's are connected to the uterus by?",
+    answer:"Fallopian tubes",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Endometrial tissues",
+      "Cervic",
+      "Fallopian tubes",
+      "Uterus"
    ]
   },
 
   {
     numb: 82,
-    question: "Your Question is Here",
- 
+    question: "Which of the following is a contraindication for the use of an OPA device?",
+    answer:"the patient has a gag reflex",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "the patient has a gag reflex",
+      "patient is unconscious",
+      "patient is in asystole",
+      "None of the above"
    ]
   },
 
   {
     numb: 83,
-    question: "Your Question is Here",
- 
+    question: "Trauma that affects more than one body system is called what?",
+    answer:"multisystem trauma",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "blast trauma",
+      "Secondary survey",
+      "PTSD",
+      "Multisystem trauma"
    ]
   },
 
   {
     numb: 84,
-    question: "Your Question is Here",
- 
+    question: "Carbon monoxide poison is an example of what type of poisoning?",
+    answer:"Inhaled",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Exhaled",
+      "Absorbed",
+      "Swallowed",
+      "Inhaled"
    ]
   },
 
   {
     numb: 85,
-    question: "Your Question is Here",
- 
+    question: "What is the most important sign in the evaluation of a head injured patient is?",
+    answer:"level of conscious",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Tachypnea",
+      "Tachycardia",
+      "level of conscious",
+      "Analogue pain score"
    ]
   },
 
   {
     numb: 86,
-    question: "Your Question is Here",
- 
+    question: "The use of accessory muscles and nasal flaring are all signs of?",
+    answer:"Respiratory Distress",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Normal breathing",
+      "Respiratory Distress",
+      "Shallow breathing",
+      "noisy breathing"
    ]
   },
 
   {
     numb: 87,
-    question: "Your Question is Here",
- 
+    question: "A broken bone has fractured and torn through the skin, this fracture is called?",
+    answer:"Open fracture",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Open fracture",
+      "Closed fracture",
+      "Greenstick frackture",
+      "Hairline fracture"
    ]
   },
 
   {
     numb: 88,
-    question: "Your Question is Here",
- 
+    question: "Shock can be defined as what?",
+    answer:"inadequate oxygen delivery to meet cellular metabolic needs and oxygen consumption requirements, producing cellular and tissue hypoxia.",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Headache",
+      "Pulmonary oedema",
+      "A sudden fright to the body",
+      "inadequate oxygen delivery to meet cellular metabolic needs and oxygen consumption requirements, producing cellular and tissue hypoxia."
    ]
   },
 
