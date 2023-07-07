@@ -554,7 +554,7 @@ let questions = [
     answer: "True",
     options: [
       "False",
-      "Tue"
+      "True"
     ]
   },
     {
@@ -797,7 +797,7 @@ let questions = [
     options: [
       "TachyCardia",
       "Bradycardia",
-      "Ventricular fibrillation,",
+      "Ventricular fibrillation",
       "1st degree block"
    ]
   },
@@ -984,7 +984,7 @@ let questions = [
   {
     numb: 84,
     question: "Trauma that affects more than one body system is called what?",
-    answer:"multisystem trauma",
+    answer:"Multisystem trauma",
     options: [
       "blast trauma",
       "Secondary survey",
