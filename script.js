@@ -514,13 +514,13 @@ let questions = [
 
   {
     numb: 43,
-    question: "",
- 
+    question: "While treating a patient with a suspected head injury, he becomes verbally abusive and tells you to (leave him alone). If you stop treating him you may be guilty of:",
+    answer:"Abandonment",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Battery",
+      "Abandonment",
+      "Neglect",
+      "Emotional abuse"
    ]
   },
 
