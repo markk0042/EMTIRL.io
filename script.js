@@ -828,97 +828,96 @@ let questions = [
 
   {
     numb: 70,
-    question: "",
-    answer:"",
+    question: "part of the rapid physical assessment is evaluation using the mnemonic?",
+    answer:"Sample history",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Sample history",
+      "DCAPBTLS",
+      "AVPU",
+      "News score"
    ]
   },
 
   {
     numb: 71,
-    question: "Your Question is Here",
- 
+    question: "you arrive to a call you find the adult female patient to be in cardiac arrest. You should initialise mobilisation of how many additional responders?",
+    answer:"3-4",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "5-6",
+      "7-9",
+      "1-2",
+      "3-4"
    ]
   },
 
   {
     numb: 72,
-    question: "Your Question is Here",
- 
+    question: "Organisms that cause infection, such as viruses and bacteria, are called",
+    answer:"Pathogens",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Pathogens",
+      "Antigens",
+      "Fungi",
+      "Antibodies"
    ]
   },
 
   {
     numb: 73,
-    question: "Your Question is Here",
- 
+    question: "What causes the pupils to constrict to a pinpoint?",
+    answer:"Opiates",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Nsaids",
+      "Insulin",
+      "Opiates",
+      "Entonox"
    ]
   },
 
   {
     numb: 74,
-    question: "Your Question is Here",
- 
+    question: "Glycerin Tri-Nitrate (GTN) reduces pain because its purpose is to increase blood flow by relieving the spasms or causing the arteries to Dilate?",
+    answer:"True",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "False",
+      "GTN doesnt do this.",
+      "True",
    ]
   },
 
   {
     numb: 75,
-    question: "Your Question is Here",
- 
+    question: "Hypothermia is diagnosed when the core temperature of the body falls below?",
+    answer:"35°C",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "36.9°C",
+      "38°C",
+      "36.3°C",
+      "35°C"
    ]
   },
 
   {
     numb: 76,
-    question: "Your Question is Here",
- 
+    question: "To protect against heat loss, the body normally?",
+    answer:"Constricts blood vessels",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Dilates blood vessels",
+      "Constricts blood vessels",
+      "Increases perspiration",
+      "Decreases perspiration"
    ]
   },
 
   {
     numb: 77,
-    question: "Your Question is Here",
- 
+    question: "Deep vein thrombosis example is?",
+    answer:"A blood clot in the deep veins of the leg(s)",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "A blood clot in the deep veins of the leg(s)",
+      "A ruptured vein",
+      "A damaged valve in the vein",
+      "Aortic Damage"
    ]
   },
 
