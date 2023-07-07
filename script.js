@@ -699,140 +699,137 @@ let questions = [
 
   {
     numb: 59,
-    question: "Your Question is Here",
-    answer: "True",
+    question: "Increased pressure within the pericardial sac, whether from infection or haemorrhage, which reduces the filling capacity of the ventricles, is known as?",
+    answer: "Cardiac Temponade",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Pnuemothorax",
+      "Cardiac Temponade",
+      "Tension Pnuemothorax",
+      "Arteriosclerosis"
    ]
   },
 
   {
     numb: 60,
-    question: "Your Question is Here",
-    answer: "True",
+    question: "A sphygmomanometer is used for what?",
+    answer: "Blood Pressure",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Blood Pressure",
+      "temperature",
+      "Troponin",
+      "Insulin levels"
    ]
   },
 
   {
     numb: 61,
-    question: "Your Question is Here",
-    answer: "True",
+    question: "Bands of tough, flexible connective tissue which join the articular surfaces of bones are called",
+    answer: "Ligaments",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Tendons",
+      "Articulated processes",
+      "Ligaments",
+      "Facets"
    ]
   },
 
   {
     numb: 62,
-    question: "Your Question is Here",
-    answer: "True",
+    question: "what does ROSC stand for?",
+    answer: "Return of Spontaneous Circulation",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Return of Spontaneous Circulation",
+      "Return of Spontaneous Coughing",
+      "Rely on Special Circumstances",
    ]
   },
 
   {
     numb: 63,
-    question: "Your Question is Here",
- 
+    question: "Your at the scene of an trauma accident you find an adult male patient with gurgling sounds coming from his airway and inadequate breathing (5 per min). How do you proceed?",
+    answer: "Open the airway, suction, insert airway adjunct, use BVM with o2 at 100%",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "insert airway adjunct, use a simple face mask for oxygen therapy",
+      "Scream 'Help, Help'",
+      "Call Fire service",
+      "Open the airway, suction, insert airway adjunct, use BVM with o2 at 100%"
    ]
   },
 
   {
     numb: 64,
-    question: "Your Question is Here",
- 
+    question: "if stridor is heard, it would be a sign of what?",
+    answer: "Upper airway obstruction",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Upper airway obstruction",
+      "Lower airway tightness",
+      "Cardiac Temponade",
+      "Cushings Triade"
    ]
   },
 
   {
     numb: 65,
-    question: "Your Question is Here",
- 
+    question: "Under certain circumstances, an impaled object may be removed if it is located in the?",
+    answer: "Cheek",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Skull",
+      "Abdomen",
+      "Eye",
+      "Cheek"
    ]
   },
 
   {
     numb: 66,
-    question: "Your Question is Here",
- 
+    question: "Anaphylactic shock can caused by a reaction to a drug, bite or sting, which reduces peripheral resistance and venous return",
+    answer: "True",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "True",
+      "False",
    ]
   },
 
   {
     numb: 67,
-    question: "Your Question is Here",
- 
+    question: "what other rhythm may be shocked by the AED other than Ventricular Tachycardia?",
+    answer: "Ventricular fibrillation",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "TachyCardia",
+      "Bradycardia",
+      "Ventricular fibrillation,",
+      "1st degree block"
    ]
   },
 
   {
     numb: 68,
-    question: "Your Question is Here",
- 
+    question: "In what quadrant is the Liver mostly?",
+    answer: "Right Upper Quadrant",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Right Upper Quadrant",
+      "Left Upper Quadrant",
+      "Right Lower Quadrant",
+      "Left Lower Quadrant"
    ]
   },
 
   {
     numb: 69,
-    question: "Your Question is Here",
- 
+    question: "The amount of air that is passed in and out of the lungs in one breath is what?",
+    answer: "Tidal Volume",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Positive end-expiratory pressure ",
+      "Residual volume",
+      "Minute Volume",
+      "Tidal Volume"
    ]
   },
 
   {
     numb: 70,
-    question: "Your Question is Here",
- 
+    question: "",
+    answer:"",
     options: [
       "Option 1",
       "option 2",
