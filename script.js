@@ -1055,133 +1055,131 @@ let questions = [
 
   {
     numb: 89,
-    question: "Your Question is Here",
- 
+    question: "Glucagon is a what?",
+    answer:"Protein",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Sugar",
+      "Cpmplex carb",
+      "Nutrient",
+      "Protein"
    ]
   },
 
   {
     numb: 90,
-    question: "Your Question is Here",
- 
+    question: "The paediatric dose of aspirin is what?",
+    answer:"None",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "100mg",
+      "75mg",
+      "None",
+      "5mg per kg bodyweight"
    ]
   },
 
   {
     numb: 91,
-    question: "Your Question is Here",
- 
+    question: "It is not appropriate to commence resuscitation in cases where the following is present in the patient?",
+    answer:"Obvious Pooling",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Obvious Pooling",
+      "Hyperthermia",
+      "Hypothermia",
+      "Seizing"
    ]
   },
 
   {
     numb: 92,
-    question: "Your Question is Here",
- 
+    question: "Blood in the urine is known as?",
+    answer:"Hematuria",   
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Hemoptysis",
+      "Hematuria",
+      "Haemoglobin",
+      "hemorrhoids"
    ]
   },
 
   {
     numb: 93,
-    question: "Your Question is Here",
- 
+    question: "The abdomen is divided into four Quadrants?",
+    answer:"True",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "False",
+      "True"
    ]
   },
 
   {
     numb: 94,
-    question: "Your Question is Here",
- 
+    question: "A sucking chest wound should be treated with what?",
+    answer:"An occlusive dressing",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Steri strips",
+      "Dry gauze and tape",
+      "An occlusive dressing",
+      "Nothing is needed"
    ]
   },
 
   {
     numb: 95,
-    question: "Your Question is Here",
- 
+    question: "Cardiac arrest following a narcotic overdose is usually the result of?",
+    answer:"Respiratory arrest",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Tachycardia",
+      "Dehydration",
+      "Exhaustion",
+      "Respiratory arrest"
    ]
   },
 
   {
     numb: 96,
-    question: "Your Question is Here",
- 
+    question: "The first stage of labour begins when?",
+    answer:"The cervix is fully dilated",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Placenta is delivered",
+      "Waters break",
+      "The cervix is fully dilated",
+      "Baby is born"
    ]
   },
 
   {
     numb: 97,
-    question: "Your Question is Here",
- 
+    question: "emergency childbirth describes the situation in which the umbilical cord comes out of the vagina before the baby?",
+    answer:"Prolapsed cord",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Prolapsed cord",
+      "Abruptio placenta",
+      "Eclampsia",
+      "PPH"
    ]
   },
 
   {
     numb: 98,
-    question: "Your Question is Here",
- 
+    question: "Air in the soft tissues of the neck that produces a crackling sensation is called?",
+    answer:"Subcutaneous emphysema",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Pneumothorax",
+      "Pnuemonia",
+      "Wheezing",
+      "Subcutaneous emphysema"
    ]
   },
 
   {
     numb: 99,
-    question: "Your Question is Here",
- 
+    question: "The right lung has 3 lobes where the left lung has?",
+    answer:"2 lobes",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "2 lobes",
+      "No lobes",
+      "3 lobes",
+      "1 lobe"
    ]
   },
 ];
