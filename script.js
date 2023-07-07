@@ -570,139 +570,137 @@ let questions = [
   },
     {
     numb: 48,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Contraindications for the use of oral glucose ;",
+    answer: "unconsciousness",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "GCS 15 ",
+      "A on the AVPU scale",
+      "Pain score of 9/10",
+      "unconsciousness"
     ]
   },
     {
     numb: 49,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "A patient in insulin shock or a diabetic coma may appear to be;",
+    answer: "Intoxicated",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "A seizure",
+      "No changes",
+      "Intoxicated",
+      "Heart attack"
     ]
   },
     {
     numb: 50,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "The term for excessive urination especially in diabetes is?",
+    answer: "Polyuria",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Polyuria",
+      "Polydipsia",
+      "Polyphagia",
+      "polysomnography"
     ]
   },
   
 
      {
      numb: 51,
-     question: "Your Question is Here",
-  
+     question: "Hypoglycaemia can mimic conditions such as?",
+     answer: "Stroke",
      options: [
-       "Option 1",
-       "option 2",
-       "option 3",
-       "option 4"
+       "Cystic fibrosis",
+       "Myocardial Infarction",
+       "High fevers",
+       "Stroke"
     ]
    },
 
    {
     numb: 52,
-    question: "Your Question is Here",
- 
+    question: "Diabetes is a metabolic disorder where a hormone is missing or ineffective. Which of the following listed is that hormone.",
+    answer: "Insulin",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Testosterone",
+      "Insulin",
+      "Epinephrine",
+      "CSF"
    ]
   },
 
   {
     numb: 53,
-    question: "Your Question is Here",
- 
+    question: "The assessment tool used to evaluate the effectiveness of oxygenation is what?",
+    answer: "Pulse Oximetry",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Capnography",
+      "Pulse Oximetry",
+      "Blood glucose",
+      "ECG"
    ]
   },
 
   {
     numb: 54,
-    question: "Your Question is Here",
- 
+    question: "The first set of vital signs that you obtain is called the;",
+    answer: "Baseline vital signs",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Secondary survey",
+      "Baseline vital signs",
+      "Primary survey",
+    
    ]
   },
 
   {
     numb: 55,
-    question: "Your Question is Here",
- 
+    question: "Emphysema is lung disease, which can lead to chronic lung failure?",
+    answer: "True",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "True",
+      "False",
    ]
   },
 
   {
     numb: 56,
-    question: "Your Question is Here",
- 
+    question: "Hematemesis is the medical term vomiting up blood?",
+    answer: "True",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "True",
+      "False",
+      "This is not a medical term"
+     
    ]
   },
 
   {
     numb: 57,
-    question: "Your Question is Here",
- 
+    question: "An intestinal obstruction is contraindication for what drug",
+    answer: "Entonox",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Entonox",
+      "Paracetamol",
+      "Aspirin",
+      "Glucose 10%"
    ]
   },
 
   {
     numb: 58,
-    question: "Your Question is Here",
- 
+    question: "in your brain what is regarded as the control centre for respiration",
+    answer: "Medulla oblongata",
     options: [
-      "Option 1",
-      "option 2",
-      "option 3",
-      "option 4"
+      "Frontal Lobe",
+      "Meminges",
+      "Medulla oblongata",
+      "hypothalamus"
    ]
   },
 
   {
     numb: 59,
     question: "Your Question is Here",
- 
+    answer: "True",
     options: [
       "Option 1",
       "option 2",
@@ -714,7 +712,7 @@ let questions = [
   {
     numb: 60,
     question: "Your Question is Here",
- 
+    answer: "True",
     options: [
       "Option 1",
       "option 2",
@@ -726,7 +724,7 @@ let questions = [
   {
     numb: 61,
     question: "Your Question is Here",
- 
+    answer: "True",
     options: [
       "Option 1",
       "option 2",
@@ -738,7 +736,7 @@ let questions = [
   {
     numb: 62,
     question: "Your Question is Here",
- 
+    answer: "True",
     options: [
       "Option 1",
       "option 2",
