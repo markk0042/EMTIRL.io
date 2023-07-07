@@ -286,7 +286,7 @@ let questions = [
 
   {
     numb: 25,
-    question: "How man sets of chest compressions to ventilations should you get in a 2 minute cycle of CPR in an ADULT?",
+    question: "How many sets of chest compressions to ventilations should you get in a 2 minute cycle of CPR in an ADULT?",
     answer: "5 sets",
     options: [
       "3 sets",
@@ -357,7 +357,7 @@ let questions = [
   },
 
   {
-    numb: 11,
+    numb: 31,
     question: "what is the best placement technique for chest compressions in a neonate in CPR with 2 practitioners present",
     answer: "Use two thumbs encircling technique when two practitioners present",
     options: [
@@ -369,7 +369,7 @@ let questions = [
   },
 
   {
-    numb: 31,
+    numb: 32,
     question: "What does the Paediatric Assessment Triangle focus on?",
     answer:"Appearance Work of Breathing Circulation to skin",
     options: [
@@ -381,7 +381,7 @@ let questions = [
   },
 
   {
-    numb: 32,
+    numb: 33,
     question: "How many layers of the heart is their?",
     answer: "3",
     options: [
@@ -393,7 +393,7 @@ let questions = [
   },
 
   {
-    numb: 33,
+    numb: 34,
     question: "Prolonged use of (___) in COPD patients may lead to the reduction in ventilations stimulus",
     answer:"Oxygen",
     options: [
@@ -405,7 +405,7 @@ let questions = [
   },
 
   {
-    numb: 34,
+    numb: 35,
     question: "When assessing normal capillary refill, you will press the capillary bed for 5 seconds and release. Normal perfusion results in the blood returning within how many seconds?",
     answer:"Two",
     options: [
@@ -417,7 +417,7 @@ let questions = [
   },
 
   {
-    numb: 35,
+    numb: 36,
     question: "On the ECG the “P” wave represents what?",
     answer: "Represents the SA node firing",
     options: [
@@ -429,7 +429,7 @@ let questions = [
   },
 
   {
-    numb: 36,
+    numb: 37,
     question: "Which of the following below is an indication for the use of Naloxone?",
     answer: "Inadequate respiration and/ or ALOC following known or suspected narcotic overdose",
     options: [
@@ -441,7 +441,7 @@ let questions = [
   },
 
   {
-    numb: 37,
+    numb: 38,
     question: "In a cardiac arrest situation how many practitioners or responders are needed minimum?",
     answer:"3 to 4 practitioners / responders Minimum",
     options: [
@@ -453,7 +453,7 @@ let questions = [
   },
 
   {
-    numb: 38,
+    numb: 39,
     question: "A clean deep cut made with a sharp knife or scalpel is called",
     answer: "incision",
     options: [
@@ -465,7 +465,7 @@ let questions = [
   },
 
   {
-    numb: 39,
+    numb: 40,
     question: " what is the term used to describe the process whereby deposits of fatty substances, cholesterol, calcium and other waste products line the inner surface of blood vessels",
     answer:"Atherosclerosis",
     options: [
@@ -477,7 +477,7 @@ let questions = [
   },
 
   {
-    numb: 40,
+    numb: 41,
     question: "Protection, temperature regulation and excretion are major functions of the",
     answer:"Skin",
     options: [
@@ -489,7 +489,7 @@ let questions = [
   },
 
   {
-    numb: 41,
+    numb: 42,
     question: "The bone known as the knee cap, is anatomically known as what ?",
     answer:"Patella",
     options: [
@@ -501,7 +501,7 @@ let questions = [
   },
 
   {
-    numb: 42,
+    numb: 43,
     question: "What does the medical term “idiopathic” mean?",
     answer:"Of unknown cause",
     options: [
@@ -513,7 +513,7 @@ let questions = [
   },
 
   {
-    numb: 43,
+    numb: 44,
     question: "While treating a patient with a suspected head injury, he becomes verbally abusive and tells you to (leave him alone). If you stop treating him you may be guilty of:",
     answer:"Abandonment",
     options: [
@@ -525,7 +525,7 @@ let questions = [
   },
 
   {
-    numb: 44,
+    numb: 45,
     question: "A blood clot lodged in the pulmonary artery in the lung is referred to as:",
     answer:"A pulmonary embolism",
     options: [
@@ -537,7 +537,7 @@ let questions = [
   },
 
   {
-    numb: 45,
+    numb: 46,
     question: "When obtaining a blood pressure by palpation in the arm, you should place your fingertips on which of the following artery",
     answer:"Radial Artery",
     options: [
@@ -549,7 +549,7 @@ let questions = [
   },
 
   {
-    numb: 46,
+    numb: 47,
     question: "Arteries carry blood away from the heart where as veins carry blood towards the heart?",
     answer: "True",
     options: [
@@ -558,7 +558,7 @@ let questions = [
     ]
   },
     {
-    numb: 47,
+    numb: 48,
     question: "Insulin is produced by what organ?",
     answer: "Pancreas",
     options: [
@@ -569,7 +569,7 @@ let questions = [
     ]
   },
     {
-    numb: 48,
+    numb: 49,
     question: "Contraindications for the use of oral glucose ;",
     answer: "unconsciousness",
     options: [
@@ -580,7 +580,7 @@ let questions = [
     ]
   },
     {
-    numb: 49,
+    numb: 50,
     question: "A patient in insulin shock or a diabetic coma may appear to be;",
     answer: "Intoxicated",
     options: [
@@ -591,7 +591,7 @@ let questions = [
     ]
   },
     {
-    numb: 50,
+    numb: 51,
     question: "The term for excessive urination especially in diabetes is?",
     answer: "Polyuria",
     options: [
@@ -604,7 +604,7 @@ let questions = [
   
 
      {
-     numb: 51,
+     numb: 52,
      question: "Hypoglycaemia can mimic conditions such as?",
      answer: "Stroke",
      options: [
@@ -616,7 +616,7 @@ let questions = [
    },
 
    {
-    numb: 52,
+    numb: 53,
     question: "Diabetes is a metabolic disorder where a hormone is missing or ineffective. Which of the following listed is that hormone.",
     answer: "Insulin",
     options: [
@@ -628,7 +628,7 @@ let questions = [
   },
 
   {
-    numb: 53,
+    numb: 54,
     question: "The assessment tool used to evaluate the effectiveness of oxygenation is what?",
     answer: "Pulse Oximetry",
     options: [
@@ -640,7 +640,7 @@ let questions = [
   },
 
   {
-    numb: 54,
+    numb: 55,
     question: "The first set of vital signs that you obtain is called the;",
     answer: "Baseline vital signs",
     options: [
@@ -652,7 +652,7 @@ let questions = [
   },
 
   {
-    numb: 55,
+    numb: 56,
     question: "Emphysema is lung disease, which can lead to chronic lung failure?",
     answer: "True",
     options: [
@@ -662,7 +662,7 @@ let questions = [
   },
 
   {
-    numb: 56,
+    numb: 57,
     question: "Hematemesis is the medical term vomiting up blood?",
     answer: "True",
     options: [
@@ -674,7 +674,7 @@ let questions = [
   },
 
   {
-    numb: 57,
+    numb: 58,
     question: "An intestinal obstruction is contraindication for what drug",
     answer: "Entonox",
     options: [
@@ -686,7 +686,7 @@ let questions = [
   },
 
   {
-    numb: 58,
+    numb: 59,
     question: "in your brain what is regarded as the control centre for respiration",
     answer: "Medulla oblongata",
     options: [
@@ -698,7 +698,7 @@ let questions = [
   },
 
   {
-    numb: 59,
+    numb: 60,
     question: "Increased pressure within the pericardial sac, whether from infection or haemorrhage, which reduces the filling capacity of the ventricles, is known as?",
     answer: "Cardiac Temponade",
     options: [
@@ -710,7 +710,7 @@ let questions = [
   },
 
   {
-    numb: 60,
+    numb: 61,
     question: "A sphygmomanometer is used for what?",
     answer: "Blood Pressure",
     options: [
@@ -722,7 +722,7 @@ let questions = [
   },
 
   {
-    numb: 61,
+    numb: 62,
     question: "Bands of tough, flexible connective tissue which join the articular surfaces of bones are called",
     answer: "Ligaments",
     options: [
@@ -734,7 +734,7 @@ let questions = [
   },
 
   {
-    numb: 62,
+    numb: 63,
     question: "what does ROSC stand for?",
     answer: "Return of Spontaneous Circulation",
     options: [
@@ -745,7 +745,7 @@ let questions = [
   },
 
   {
-    numb: 63,
+    numb: 64,
     question: "Your at the scene of an trauma accident you find an adult male patient with gurgling sounds coming from his airway and inadequate breathing (5 per min). How do you proceed?",
     answer: "Open the airway, suction, insert airway adjunct, use BVM with o2 at 100%",
     options: [
@@ -757,7 +757,7 @@ let questions = [
   },
 
   {
-    numb: 64,
+    numb: 65,
     question: "if stridor is heard, it would be a sign of what?",
     answer: "Upper airway obstruction",
     options: [
@@ -769,7 +769,7 @@ let questions = [
   },
 
   {
-    numb: 65,
+    numb: 66,
     question: "Under certain circumstances, an impaled object may be removed if it is located in the?",
     answer: "Cheek",
     options: [
@@ -781,7 +781,7 @@ let questions = [
   },
 
   {
-    numb: 66,
+    numb: 67,
     question: "Anaphylactic shock can caused by a reaction to a drug, bite or sting, which reduces peripheral resistance and venous return",
     answer: "True",
     options: [
@@ -791,7 +791,7 @@ let questions = [
   },
 
   {
-    numb: 67,
+    numb: 68,
     question: "what other rhythm may be shocked by the AED other than Ventricular Tachycardia?",
     answer: "Ventricular fibrillation",
     options: [
@@ -803,7 +803,7 @@ let questions = [
   },
 
   {
-    numb: 68,
+    numb: 69,
     question: "In what quadrant is the Liver mostly?",
     answer: "Right Upper Quadrant",
     options: [
@@ -815,7 +815,7 @@ let questions = [
   },
 
   {
-    numb: 69,
+    numb: 70,
     question: "The amount of air that is passed in and out of the lungs in one breath is what?",
     answer: "Tidal Volume",
     options: [
@@ -827,7 +827,7 @@ let questions = [
   },
 
   {
-    numb: 70,
+    numb: 71,
     question: "part of the rapid physical assessment is evaluation using the mnemonic?",
     answer:"Sample history",
     options: [
@@ -839,7 +839,7 @@ let questions = [
   },
 
   {
-    numb: 71,
+    numb: 72,
     question: "you arrive to a call you find the adult female patient to be in cardiac arrest. You should initialise mobilisation of how many additional responders?",
     answer:"3-4",
     options: [
@@ -851,7 +851,7 @@ let questions = [
   },
 
   {
-    numb: 72,
+    numb: 73,
     question: "Organisms that cause infection, such as viruses and bacteria, are called",
     answer:"Pathogens",
     options: [
@@ -863,7 +863,7 @@ let questions = [
   },
 
   {
-    numb: 73,
+    numb: 74,
     question: "What causes the pupils to constrict to a pinpoint?",
     answer:"Opiates",
     options: [
@@ -875,7 +875,7 @@ let questions = [
   },
 
   {
-    numb: 74,
+    numb: 75,
     question: "Glycerin Tri-Nitrate (GTN) reduces pain because its purpose is to increase blood flow by relieving the spasms or causing the arteries to Dilate?",
     answer:"True",
     options: [
@@ -886,7 +886,7 @@ let questions = [
   },
 
   {
-    numb: 75,
+    numb: 76,
     question: "Hypothermia is diagnosed when the core temperature of the body falls below?",
     answer:"35°C",
     options: [
@@ -898,7 +898,7 @@ let questions = [
   },
 
   {
-    numb: 76,
+    numb: 77,
     question: "To protect against heat loss, the body normally?",
     answer:"Constricts blood vessels",
     options: [
@@ -910,7 +910,7 @@ let questions = [
   },
 
   {
-    numb: 77,
+    numb: 78,
     question: "Deep vein thrombosis example is?",
     answer:"A blood clot in the deep veins of the leg(s)",
     options: [
@@ -922,7 +922,7 @@ let questions = [
   },
 
   {
-    numb: 78,
+    numb: 79,
     question: "Osteoporosis is a condition to the skeletal system due to?",
     answer:"decreased bone mass and strength",
     options: [
@@ -934,7 +934,7 @@ let questions = [
   },
 
   {
-    numb: 79,
+    numb: 80,
     question: "Ectopic pregnancies most often develop in?",
     answer:"A fallopian tube",
     options: [
@@ -946,7 +946,7 @@ let questions = [
   },
 
   {
-    numb: 80,
+    numb: 81,
     question: "A area/mass of blood in the soft tissue beneath the skin is a?",
     answer:"Hematoma",
     options: [
@@ -958,7 +958,7 @@ let questions = [
   },
 
   {
-    numb: 81,
+    numb: 82,
     question: "ovary's are connected to the uterus by?",
     answer:"Fallopian tubes",
     options: [
@@ -970,7 +970,7 @@ let questions = [
   },
 
   {
-    numb: 82,
+    numb: 83,
     question: "Which of the following is a contraindication for the use of an OPA device?",
     answer:"the patient has a gag reflex",
     options: [
@@ -982,7 +982,7 @@ let questions = [
   },
 
   {
-    numb: 83,
+    numb: 84,
     question: "Trauma that affects more than one body system is called what?",
     answer:"multisystem trauma",
     options: [
@@ -994,7 +994,7 @@ let questions = [
   },
 
   {
-    numb: 84,
+    numb: 85,
     question: "Carbon monoxide poison is an example of what type of poisoning?",
     answer:"Inhaled",
     options: [
@@ -1006,7 +1006,7 @@ let questions = [
   },
 
   {
-    numb: 85,
+    numb: 86,
     question: "What is the most important sign in the evaluation of a head injured patient is?",
     answer:"level of conscious",
     options: [
@@ -1018,7 +1018,7 @@ let questions = [
   },
 
   {
-    numb: 86,
+    numb: 87,
     question: "The use of accessory muscles and nasal flaring are all signs of?",
     answer:"Respiratory Distress",
     options: [
@@ -1030,7 +1030,7 @@ let questions = [
   },
 
   {
-    numb: 87,
+    numb: 88,
     question: "A broken bone has fractured and torn through the skin, this fracture is called?",
     answer:"Open fracture",
     options: [
@@ -1042,7 +1042,7 @@ let questions = [
   },
 
   {
-    numb: 88,
+    numb: 89,
     question: "Shock can be defined as what?",
     answer:"inadequate oxygen delivery to meet cellular metabolic needs and oxygen consumption requirements, producing cellular and tissue hypoxia.",
     options: [
@@ -1054,7 +1054,7 @@ let questions = [
   },
 
   {
-    numb: 89,
+    numb: 90,
     question: "Glucagon is a what?",
     answer:"Protein",
     options: [
@@ -1066,7 +1066,7 @@ let questions = [
   },
 
   {
-    numb: 90,
+    numb: 91,
     question: "The paediatric dose of aspirin is what?",
     answer:"None",
     options: [
@@ -1078,7 +1078,7 @@ let questions = [
   },
 
   {
-    numb: 91,
+    numb: 92,
     question: "It is not appropriate to commence resuscitation in cases where the following is present in the patient?",
     answer:"Obvious Pooling",
     options: [
@@ -1090,7 +1090,7 @@ let questions = [
   },
 
   {
-    numb: 92,
+    numb: 93,
     question: "Blood in the urine is known as?",
     answer:"Hematuria",   
     options: [
@@ -1102,7 +1102,7 @@ let questions = [
   },
 
   {
-    numb: 93,
+    numb: 94,
     question: "The abdomen is divided into four Quadrants?",
     answer:"True",
     options: [
@@ -1112,7 +1112,7 @@ let questions = [
   },
 
   {
-    numb: 94,
+    numb: 95,
     question: "A sucking chest wound should be treated with what?",
     answer:"An occlusive dressing",
     options: [
@@ -1124,7 +1124,7 @@ let questions = [
   },
 
   {
-    numb: 95,
+    numb: 96,
     question: "Cardiac arrest following a narcotic overdose is usually the result of?",
     answer:"Respiratory arrest",
     options: [
@@ -1136,7 +1136,7 @@ let questions = [
   },
 
   {
-    numb: 96,
+    numb: 97,
     question: "The first stage of labour begins when?",
     answer:"The cervix is fully dilated",
     options: [
@@ -1148,7 +1148,7 @@ let questions = [
   },
 
   {
-    numb: 97,
+    numb: 98,
     question: "emergency childbirth describes the situation in which the umbilical cord comes out of the vagina before the baby?",
     answer:"Prolapsed cord",
     options: [
@@ -1160,7 +1160,7 @@ let questions = [
   },
 
   {
-    numb: 98,
+    numb: 99,
     question: "Air in the soft tissues of the neck that produces a crackling sensation is called?",
     answer:"Subcutaneous emphysema",
     options: [
@@ -1172,7 +1172,7 @@ let questions = [
   },
 
   {
-    numb: 99,
+    numb: 100,
     question: "The right lung has 3 lobes where the left lung has?",
     answer:"2 lobes",
     options: [
