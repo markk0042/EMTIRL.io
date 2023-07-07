@@ -203,12 +203,12 @@ let questions = [
   {
     numb: 18,
     question: "What are the 5 regions of burns considered more serious?",
-    answer: "F: face, H: hands, F: feet, F: flexion points P: perineum",
+    answer: "Face, hands, feet, flexion points, perineum",
     options: [
       "The Thighs, Glutes and chin",
       "5 toes on one foot",
       "5 fingers on one hand",
-      "F: face, H: hands, F: feet, F: flexion points, P: perineum"
+      "Face, hands, feet, flexion points, perineum"
    ]
   },
 
