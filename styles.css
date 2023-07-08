@@ -120,6 +120,7 @@ margin:50px auto
     .image{
         height: 100vh;
         border-radius: none;
+        display: none;
     }
     .content{
         height: 100vh;
@@ -159,4 +160,6 @@ margin:50px auto
     color:#000;
     font-weight: bold;
   } 
+
+  
 
