@@ -129,7 +129,7 @@ border-radius: 40px;
     }
     .content h2{
         font-size: 20px;
-        margin-top: 50px;
+        margin-top: 150px;
     }
     .content span{
         margin: 20px 0;
@@ -148,6 +148,13 @@ border-radius: 40px;
     }
     .icons li i{
         font-size: 15px;
+    }
+
+    .vertical-line {
+        height: 3px;
+        width: 3px;
+        background: #C850C0;
+        margin: 0px auto;
     }
 }
 .credit{
