@@ -35,6 +35,12 @@ if doesnt render on mobile revert changes below back to this
     z-index: 5;
     pointer-events: auto;
     transform: translate(-50%, -50%) scale(1);
+
+
+
+
+    bottom: 5px;
+    margin-top: 30px;
 */
 
 
@@ -48,8 +54,7 @@ if doesnt render on mobile revert changes below back to this
     transform: translate(-50%, -50%) scale(1);
     font-size: 15px;
     width: fit-content;
-    bottom: 5px;
-    margin-top: 30px;
+    
 }
 
 
